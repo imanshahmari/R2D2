@@ -1,0 +1,1 @@
+./detectball ../test -c ../ball_cascade.xml

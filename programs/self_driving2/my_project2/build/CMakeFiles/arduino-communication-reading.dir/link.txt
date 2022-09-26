@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/arduino-communication-reading.dir/test1.cpp.o  -o arduino-communication-reading  libserial.a -lrt 

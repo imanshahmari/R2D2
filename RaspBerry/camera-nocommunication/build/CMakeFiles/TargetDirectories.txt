@@ -1,0 +1,4 @@
+/home/r2d2/R2D2-Main/R2D2/RaspBerry/camera-nocommunication/build/CMakeFiles/rebuild_cache.dir
+/home/r2d2/R2D2-Main/R2D2/RaspBerry/camera-nocommunication/build/CMakeFiles/edit_cache.dir
+/home/r2d2/R2D2-Main/R2D2/RaspBerry/camera-nocommunication/build/CMakeFiles/object_detection_yolo.dir
+/home/r2d2/R2D2-Main/R2D2/RaspBerry/camera-nocommunication/build/CMakeFiles/serial.dir

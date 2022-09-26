@@ -1,0 +1,4 @@
+DisplayLink drivers for ubuntu 
+https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu
+
+Arduino from their website

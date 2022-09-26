@@ -1,0 +1,6 @@
+/home/r2d2/R2D2-Main/R2D2/programs/self_driving 3/my_project2/build/CMakeFiles/rebuild_cache.dir
+/home/r2d2/R2D2-Main/R2D2/programs/self_driving 3/my_project2/build/CMakeFiles/main.dir
+/home/r2d2/R2D2-Main/R2D2/programs/self_driving 3/my_project2/build/CMakeFiles/arduino-communication-reading.dir
+/home/r2d2/R2D2-Main/R2D2/programs/self_driving 3/my_project2/build/CMakeFiles/edit_cache.dir
+/home/r2d2/R2D2-Main/R2D2/programs/self_driving 3/my_project2/build/CMakeFiles/arduino-communication-writing.dir
+/home/r2d2/R2D2-Main/R2D2/programs/self_driving 3/my_project2/build/CMakeFiles/serial.dir

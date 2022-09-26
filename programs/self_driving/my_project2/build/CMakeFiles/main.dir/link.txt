@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/main.dir/main.cpp.o  -o main  -lcurses /usr/lib/x86_64-linux-gnu/libform.so libserial.a -lrt 

@@ -1,0 +1,3 @@
+/home/r2d2/object-tracker/src/build/CMakeFiles/rebuild_cache.dir
+/home/r2d2/object-tracker/src/build/CMakeFiles/edit_cache.dir
+/home/r2d2/object-tracker/src/build/CMakeFiles/object_tracker.dir

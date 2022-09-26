@@ -1,0 +1,22 @@
+//Activate ROS noetic 
+source /opt/ros/noetic/setup.bash
+
+//Connect to ROS in arduino 
+rosrun rosserial_python serial_node.py /dev/ttyACM0
+
+rosrun rosserial_python serial_node.py /dev/ttyACM0
+
+
+rostopic echo distanceReading_back_topic
+
+
+rostopic pub motor_topic std_msgs/Int16MultiArray "{layout: {dim: [{label: '', size: 0, stride: 0}], data_offset: 0}, data: [100,100,1]}"
+
+
+rostopic pub buzzer_topic std_msgs/UInt8 "data: 1"
+
+
+sudo apt-get install ros-hydro-rosserial-xbee
+
+
+
