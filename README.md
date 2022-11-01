@@ -15,9 +15,6 @@ The hardware used for this project is the following
 
 ## Technologies used:
 
-Numerous projects inside Google. The following are some published papers that
-use TF-GAN:
-
 *   OpenCV library for detection and inference of machine learning models
 *   UART Serial communication
 *   YOLOV3 object detection model
