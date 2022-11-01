@@ -19,7 +19,7 @@ The hardware used for this project is the following
 *   UART Serial communication
 *   YOLOV3 object detection model
 *   Cascade Classifier
-*   SensorFusion basic approach
+*   SensorFusion naive approach
 *   Arduino Software
 
 
